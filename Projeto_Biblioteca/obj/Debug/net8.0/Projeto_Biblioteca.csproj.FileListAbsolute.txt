@@ -1,0 +1,14 @@
+C:\Users\Atilio\source\repos\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\net8.0\Projeto_Biblioteca.exe
+C:\Users\Atilio\source\repos\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\net8.0\Projeto_Biblioteca.deps.json
+C:\Users\Atilio\source\repos\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\net8.0\Projeto_Biblioteca.runtimeconfig.json
+C:\Users\Atilio\source\repos\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\net8.0\Projeto_Biblioteca.dll
+C:\Users\Atilio\source\repos\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\net8.0\Projeto_Biblioteca.pdb
+C:\Users\Atilio\source\repos\Projeto_Biblioteca\Projeto_Biblioteca\obj\Debug\net8.0\Projeto_Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atilio\source\repos\Projeto_Biblioteca\Projeto_Biblioteca\obj\Debug\net8.0\Projeto_Biblioteca.AssemblyInfoInputs.cache
+C:\Users\Atilio\source\repos\Projeto_Biblioteca\Projeto_Biblioteca\obj\Debug\net8.0\Projeto_Biblioteca.AssemblyInfo.cs
+C:\Users\Atilio\source\repos\Projeto_Biblioteca\Projeto_Biblioteca\obj\Debug\net8.0\Projeto_Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Atilio\source\repos\Projeto_Biblioteca\Projeto_Biblioteca\obj\Debug\net8.0\Projeto_Biblioteca.dll
+C:\Users\Atilio\source\repos\Projeto_Biblioteca\Projeto_Biblioteca\obj\Debug\net8.0\refint\Projeto_Biblioteca.dll
+C:\Users\Atilio\source\repos\Projeto_Biblioteca\Projeto_Biblioteca\obj\Debug\net8.0\Projeto_Biblioteca.pdb
+C:\Users\Atilio\source\repos\Projeto_Biblioteca\Projeto_Biblioteca\obj\Debug\net8.0\Projeto_Biblioteca.genruntimeconfig.cache
+C:\Users\Atilio\source\repos\Projeto_Biblioteca\Projeto_Biblioteca\obj\Debug\net8.0\ref\Projeto_Biblioteca.dll
